@@ -1,0 +1,19 @@
+.btn1{
+    background-color: rgb(21, 227, 241);
+    padding: 8px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.btn2{
+    background-color: rgb(21, 227, 241);
+    padding: 8px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.btnopacidad{
+    opacity: 0.1;
+}
