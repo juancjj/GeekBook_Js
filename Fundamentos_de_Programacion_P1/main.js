@@ -14,9 +14,10 @@ document.querySelector('h1').innerHTML=benefits;*/
 
 //Ejercicio dos
 /*
-const direccionMia='Calle 51';
-const direccionMia='Calle 52';
-
+var direccionMia='Calle 51';
+var direccionMia='Calle 52';
+*/
+/*
 const direccionMia='calle 51';
 const direccionCompañera='calle 52';
 */
