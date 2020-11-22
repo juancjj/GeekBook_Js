@@ -1,0 +1,23 @@
+.caja{
+    height: 300px;
+    width: 300px;
+    background-color: teal;
+}
+
+.success{
+    border:rgb(1, 59, 1) 2px solid;
+    background-color: rgb(4, 238, 4);
+    color: rgb(1, 59, 1);
+}
+
+.error{
+    border:rgb(170, 2, 2) 2px solid;
+    background-color: rgb(255, 41, 41);
+    color: rgb(170, 2, 2);
+}
+
+.warning{
+    border:rgb(202, 202, 0) 2px solid;
+    background-color: rgb(250, 250, 46);
+    color: rgb(201, 201, 0);
+}

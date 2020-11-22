@@ -91,13 +91,14 @@ caracteres.innerHTML=numeroLetras.length;
 */
 
 //Ejercicio 10
-/* 
-const edad= document.querySelector('.miEdad');
+/*
+const edad= document.querySelector('.miEdad').innerHTML;
 const diasA= 365;
 const horas= 24;
 const resultado= parseInt(edad)*diasA*horas;
 
 console.log(`mi edad: ${resultado}`);
+document.querySelector('.imprimir').innerHTML=`mi edad: ${resultado}`;
 */
 
 //Ejercicio 11
