@@ -75,6 +75,8 @@ const avocadoPrice = 1.5;
 const money = 33;
 const avocados = (money >= avocadoPrice) ? money / avocadoPrice : 0;
 */
+
+// Ejercicio Siete
 /*
 const añoActual= 2024;
 
@@ -84,10 +86,11 @@ if (añoActual % 4 == 0){
   console.log('Este no es un año bisiesto.')
 }
 */
+/*
 const añoActual = 2023;
-const avocados = (añoActual % 4 == 0) ? 'Este año es bisiesto' : '4';
+const avocados = ((añoActual % 4 == 0) && (añoActual % 100 == 0) || (añoActual % 400 == 0)) ? 'Este año es bisiesto' : 'Los bisiestos son cada 4 años';
 console.log(avocados);
-
+*/
 
 
 
